@@ -1,4 +1,4 @@
-# Animal-Behaviour-and-Disease-Detection
+# Animal-Health-Monitoring
 "Animal Behavior &amp; Disease Detection: Utilize YOLO and MobileNetV2_img_classifier for real-time animal behavior tracking and disease identification. A valuable tool for wildlife researchers and conservationists. 🦁🔍🦠 #WildlifeAI #DeepLearning #Conservation"
 
 # Animal Behavior & Disease Detection 🦁🦠
